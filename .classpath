@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/jre1.8.0_201"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.testng.TESTNG_CONTAINER"/>
+	<classpathentry kind="lib" path="lib/java-client-7.0.0.jar"/>
+	<classpathentry kind="lib" path="lib/selenium-server-standalone-3.141.59.jar"/>
+	<classpathentry kind="lib" path="lib/commons-lang3-3.8.1.jar"/>
+	<classpathentry kind="lib" path="lib/cglib-3.2.10.jar"/>
+	<classpathentry kind="lib" path="lib/asm-3.3.1.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
